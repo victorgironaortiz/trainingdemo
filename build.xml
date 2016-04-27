@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE project>
 
+<<<<<<< HEAD
 <project name="plugins" basedir="." default="all" xmlns:antelope="antlib:ise.antelope.tasks">
 	<import file="build-common.xml" />
 
@@ -275,4 +276,8 @@ the outputted files will work in any supported application server.
 
 		<delete dir="${tstamp.value}" />
 	</target>
+=======
+<project name="basicPOC-portlet" basedir="." default="deploy">
+	<import file="../build-common-portlet.xml" />
+>>>>>>> 9323b02559535fbb54de1b757f144fdf07c60c66
 </project>
