@@ -3,7 +3,6 @@
 
 <display>
 	<category name="category.sample">
-		<portlet id="basicPOC" />
 		<portlet id="basic-poc"></portlet>
 	</category>
 </display>
