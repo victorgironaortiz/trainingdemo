@@ -2,4 +2,4 @@
 
 <portlet:defineObjects />
 
-Portlet initial message. v1.0
+Portlet initial message. v1.4
