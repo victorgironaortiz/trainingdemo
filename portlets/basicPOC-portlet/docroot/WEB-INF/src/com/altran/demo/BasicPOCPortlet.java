@@ -20,7 +20,7 @@ public class BasicPOCPortlet extends MVCPortlet {
 	@Override
 	public void doView(RenderRequest renderRequest,
 			RenderResponse renderResponse) throws IOException, PortletException {
-		logger.info("Portlet initial log message: v1.4");
+		logger.info("Portlet initial log message: v1.5 Presentacion Altran");
 		super.doView(renderRequest, renderResponse);
 	}
 }
